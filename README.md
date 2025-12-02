@@ -28,4 +28,4 @@ Busco oportunidades em cybersecurity com foco técnico.
 
 ## 📫 Contato
 - **Email:** lucasba.cft@gmail.com  
-- **LinkedIn:** [linkedin.com/in/seuperfil  ](https://www.linkedin.com/in/lucas-bruno-alves-45a85b14a/)
+- **LinkedIn:** [linkedin.com/in/](https://www.linkedin.com/in/lucas-bruno-alves-45a85b14a/)
