@@ -1,16 +1,31 @@
-## Hi there 👋
+#  Olá! Eu sou o Lucas
+### Cybersecurity | DevSecOps | Redes | Automação
 
-<!--
-**lucasbruno-devdog/lucasbruno-devdog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante/profissional da área de Segurança da Informação com foco em:
+- Segurança Defensiva (SOC, Blue Team)
+- DevSecOps e automação de processos
+- Redes, servidores Linux e infra
 
-Here are some ideas to get you started:
+Atualmente bolsista na área de automação/infra, estudando segurança.
+Busco oportunidades em cybersecurity com foco técnico.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛡️ Habilidades Principais
+ 
+- **Blue Team**: Wazuh, ELK, análise de logs, resposta a incidentes  
+- **DevSecOps**: GitHub Actions, CI/CD seguro, Docker, análise SAST/DAST  
+- **Automação**: Python, Bash, PowerShell  
+- **Infra/Redes**: Linux, Shell, serviços (DNS, DHCP, VPN, Proxy, Firewall)
+
+
+---
+
+## 📚 Certificações e Estudos
+- Segurança Endpoint (Cisco), Segurança de Sistemas Computacionais (Cisco).
+
+---
+
+## 📫 Contato
+- **Email:** lucasba.cft@gmail.com  
+- **LinkedIn:** linkedin.com/in/seuperfil  
