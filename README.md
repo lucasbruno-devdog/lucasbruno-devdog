@@ -15,7 +15,7 @@ Busco oportunidades em cybersecurity com foco técnico.
  
 - **Blue Team**: Wazuh, ELK, análise de logs, resposta a incidentes  
 - **DevSecOps**: GitHub Actions, CI/CD seguro, Docker, análise SAST/DAST  
-- **Automação**: Python, Bash, PowerShell  
+- **Automação**: Python, Bash, PowerShell, N8N  
 - **Infra/Redes**: Linux, Shell, serviços (DNS, DHCP, VPN, Proxy, Firewall)
 
 
