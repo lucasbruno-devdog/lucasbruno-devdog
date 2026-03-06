@@ -1,20 +1,17 @@
 #  Olá! Eu sou o Lucas
-### Cybersecurity | DevSecOps | Redes | Automação
+### DevSecOps | Redes | Automação
 
-Sou estudante/profissional da área de Segurança da Informação com foco em:
-- Segurança Defensiva (SOC, Blue Team)
+Sou estudante/profissional da área de tecnologia da informação com foco em:
 - DevSecOps e automação de processos
 - Redes, servidores Linux e infra
 
-Atualmente bolsista na área de automação/infra, estudando segurança.
-Busco oportunidades em cybersecurity com foco técnico.
+Atualmente bolsista na área de DevOps, com grandes práticas de automação e em infra, estudando segurança e a aplicando no cotidiano.
 
 ---
 
-## 🛡️ Habilidades Principais
- 
-- **Blue Team**: Wazuh, ELK, análise de logs, resposta a incidentes  
-- **DevSecOps**: GitHub Actions, CI/CD seguro, Docker, análise SAST/DAST  
+## Habilidades Principais
+   
+- **DevSecOps**: GitHub Actions, CI/CD seguro, Docker
 - **Automação**: Python, Bash, PowerShell, N8N  
 - **Infra/Redes**: Linux, Shell, serviços (DNS, DHCP, VPN, Proxy, Firewall)
 
