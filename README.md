@@ -1,9 +1,7 @@
 #  Olá! Eu sou o Lucas
-### DevSecOps | Redes | Automação
+### Sistemas de Informação
 
-Sou estudante/profissional da área de tecnologia da informação com foco em:
-- DevSecOps e automação de processos
-- Redes, servidores Linux e infra
+Sou estudante/profissional da área de tecnologia da informação!
 
 Atualmente bolsista na área de DevOps, com grandes práticas de automação e em infra, estudando segurança e a aplicando no cotidiano.
 
@@ -11,7 +9,7 @@ Atualmente bolsista na área de DevOps, com grandes práticas de automação e e
 
 ## Habilidades Principais
    
-- **DevSecOps**: GitHub Actions, CI/CD seguro, Docker
+- **DevOps**: GitHub Actions, CI/CD, Docker, Kubernetes
 - **Automação**: Python, Bash, PowerShell, N8N  
 - **Infra/Redes**: Linux, Shell, serviços (DNS, DHCP, VPN, Proxy, Firewall)
 - **Desenvolvimento**: Python, Java, C/C++
