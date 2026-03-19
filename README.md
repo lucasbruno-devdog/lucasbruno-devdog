@@ -13,6 +13,7 @@ Atualmente bolsista na área de DevOps, com grandes práticas de automação e e
 - **Automação**: Python, Bash, PowerShell, N8N  
 - **Infra/Redes**: Linux, Shell, serviços (DNS, DHCP, VPN, Proxy, Firewall)
 - **Desenvolvimento**: Python, Java, C/C++
+- **Dados**: MySQL, PostgreSQL, PoweBI, PDI
 
 
 ---
